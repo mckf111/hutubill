@@ -32,4 +32,4 @@ This is a concise JAVA app to organize personal finance, which is based on **Swi
 
 ### This project idea comes from practices in a JAVA learning website: [how2j](http://how2j.cn/). 
 
-### Redistribution is NOT allowed!
+### Redistribution is NOT allowed, it is only for personal study!

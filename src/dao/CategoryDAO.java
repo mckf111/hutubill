@@ -15,6 +15,7 @@ public class CategoryDAO {
  
     public int getTotal() {
         int total = 0;
+        // try-with-resources can close the resources automatically after completion the block
         try (Connection c = DBUtil.getConnection(); Statement s = c.createStatement();) {
  
             String sql = "select count(*) from category";

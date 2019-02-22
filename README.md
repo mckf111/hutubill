@@ -1,5 +1,5 @@
 # hutubill
-This is a concise JAVA app to organize personal finance, which is based on **Swing** and **JDBC**. Some design patterns are involved, such as **singleton** and **Service-Entity-DAO**, etc. The app now can only be used by run the `/src/startup/Bootstrap.java` under certain JAVA IDE, the `exe` file will come later.
+This is a concise JAVA app to organize personal finance, which is based on **Swing** and **JDBC**. Some design patterns are involved, such as **singleton** and **Service-Entity-DAO**, etc. The app now can only be used by running the `/src/startup/Bootstrap.java` under certain JAVA IDE, the `exe` file will come later.
 
 Below are different panel snapshots:
 
